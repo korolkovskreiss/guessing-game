@@ -6,6 +6,7 @@ class GuessingGame {
     }
 
     guess() {
+        return 409
 
     }
 
